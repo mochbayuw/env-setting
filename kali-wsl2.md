@@ -102,14 +102,6 @@ C:\Windows\System32\wsl.exe -d KaliE -u <username yg dibuat sebelumnya>
 
 * * *
 
-## ✅ Hasil Akhir
-
-- Kali Linux berjalan dari \**drive E:\**
-- Tidak auto-login sebagai root
-- Siap digunakan untuk testing, pentest, atau development
-
-* * *
-
 ## 📌 Note
 
 - Don't forget to turn on **WSL** and **Virtual Machine Platform** from Windows Feature before starting.
