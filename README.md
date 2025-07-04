@@ -1,3 +1,3 @@
 # env-setting
 
-This repo contain all setting for pentest good environment
+This repo contain all env setting for every condition
